@@ -33,3 +33,5 @@ Your can add multiple accounts with single space separated.
 若部署在云函数平台上导致的任何出错，不接受反馈。
 
 (可选)使用sre24.com提供的服务，续期结果通过sre24免费推送微信提醒。（社区提供，未经测试，如有BUG请反馈，请自行确保使用第三方服务的安全性及可靠性），需要的TOKEN在第9行设置。
+
+Operated by Skylerlee.
